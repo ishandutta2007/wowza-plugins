@@ -61,3 +61,10 @@ Finally we need to create a table in a database to store the keys.
 
 You may want to think about controlling access to the statScript and the stats viewing, to protect the integrity of the data and the privacy of your users.
 
+
+### Support:
+
+If you want the good work to continue please support us on
+
+* [PAYPAL](https://www.paypal.me/ishandutta2007)
+* [BITCOIN ADDRESS: 3LZazKXG18Hxa3LLNAeKYZNtLzCxpv1LyD](https://www.coinbase.com/join/5a8e4a045b02c403bc3a9c0c)
